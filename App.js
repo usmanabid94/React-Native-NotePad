@@ -216,7 +216,7 @@ const App = () => {
   });
   export default App;
 
-// Here's a brief explanation of the new features:
+// Here's a brief explanation of all features:
 
 // 1. `handleNotePress`: This function is called when a user clicks on a note. It finds the selected note by its ID and sets the `selectedNote` state to it.
 
