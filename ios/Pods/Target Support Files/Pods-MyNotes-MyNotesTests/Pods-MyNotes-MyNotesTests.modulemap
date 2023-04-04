@@ -1,0 +1,6 @@
+module Pods_MyNotes_MyNotesTests {
+  umbrella header "Pods-MyNotes-MyNotesTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
